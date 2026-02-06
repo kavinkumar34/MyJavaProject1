@@ -20,6 +20,7 @@ color:red;
 <body>
 <h1 id="demo">hello</h1>
 <h1 id="demo1">kavin</h1>
+<h1>vanagam</h1>
 
 <button onclick="func()">click</button>
 <button onclick="func1()">click</button>
