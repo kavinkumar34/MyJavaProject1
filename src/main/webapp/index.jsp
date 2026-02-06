@@ -61,7 +61,7 @@ h1 { color:red; }
 <body>
 
 <h1 id="demo">hello</h1>
-<h2 id="demo1">kavin s</h2>
+<h2 id="demo1">kavin kumar</h2>
 
 <button type="button" onclick="func()" aria-label="Change first text color">
   Change First Text
